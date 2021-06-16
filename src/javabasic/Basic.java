@@ -29,7 +29,7 @@ public class Basic {
 		int i=20;
 		int j=20;
 		int k=10;
-		int z=0;
+		int z=2;
 		
 		if(i==j)
 		{
@@ -38,6 +38,8 @@ public class Basic {
 		}
 		
      System.out.println(k);
+	  System.out.println(z);
+	 
 	}
 	
 }
